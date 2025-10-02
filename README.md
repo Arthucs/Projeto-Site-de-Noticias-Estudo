@@ -19,7 +19,7 @@ O objetivo principal foi **praticar o desenvolvimento backend** com Express, con
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/projeto-noticias.git
+git clone https://github.com/Arthucs/Projeto-Site-de-Noticias-Estudo.git
 cd projeto-noticias
 ```
 
