@@ -1,4 +1,4 @@
-# 📰 Projeto: Site de Notícias (Estudo)
+# Projeto: Site de Notícias (Estudo)
 
 Este é um projeto simples de um site de notícias desenvolvido em **Node.js**, **Express** e **MySQL**, feito durante a realização do curso da plataforma Udemy "Curso Completo do Desenvolvedor NodeJS e MongoDB" de Jorge Sant Ana.  
 O objetivo principal foi **praticar o desenvolvimento backend** com Express, conexão com banco de dados MySQL e organização de rotas. A aplicação possui uma home, uma página de listagem de notícias e um sistema básico de cadastro de notícias.
@@ -15,7 +15,7 @@ O objetivo principal foi **praticar o desenvolvimento backend** com Express, con
 
 ---
 
-## ⚙️ Como rodar o projeto
+## Como executar o projeto
 
 ### 1. Clonar o repositório
 ```bash
